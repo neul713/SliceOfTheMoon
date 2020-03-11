@@ -1,0 +1,104 @@
+
+#div {
+  width: 400px;
+  margin: 0 auto;
+}
+#login-head {
+  width: 400px;
+  height: 50px;
+  border-bottom: 2px solid lightgray;
+  margin-bottom: 10px;
+}
+
+#login-all {
+  width: 400px;
+  height: 400px;
+  font-size: 15px;
+}
+
+#login-all-one {
+  width: 300px;
+  height: 30px;
+  margin: 0 auto;
+  font-size: 14px;
+}
+
+#login-all-two {
+  width: 300px;
+  margin: 0 auto;
+}
+
+#login-all-two-one {
+  float: left;
+}
+
+#span-id {
+  margin-right: 17px;
+}
+
+#span-pwd {
+  margin-right: 2px;
+}
+
+#login-all-two-one input {
+  width: 125px;
+  padding-bottom: 2.5px;
+}
+
+#login-all-two-two {
+  float: right;
+}
+
+#login-all-two-two input {
+  width: 100px;
+  height: 50px;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 1px solid blue;
+}
+
+#login-all-three {
+  clear: both;
+  width: 300px;
+  margin-left: 114px;
+  font-size: 11px;
+}
+
+#login-all-three button {
+  width: 14px;
+  height: 18px;
+  padding: 0;
+  font-size: 9px;
+}
+
+#login-all-four {
+  width: 300px;
+  margin-left: 114px;
+  margin-top: 20px;
+}
+
+#login-all-four button {
+  width: 75px;
+  height: 23px;
+  font-size: 11px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+
+#signup-button {
+  background-color: powderblue;
+  color: blue;
+  border: 1px solid powderblue;
+}
+
+#signup-button a {
+  text-decoration: none;
+  color: blue;
+}
+#signup-button a:hover {
+  text-decoration: underline;
+  color: blue;
+}

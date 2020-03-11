@@ -1,0 +1,16 @@
+/* 관리자 회원 목록보기(admin_list.php) */
+#admin_box { width: 850px; margin: 0 auto;}
+#admin_box h3#member_title { margin: 30px 0 10px 0;}
+#member_list { margin: 10px 0 30px 0;}
+#member_list li:nth-child(1) { font-weight: bold;}
+#member_list li { padding: 10px 0; border-bottom: solid 1px black; }
+#member_list span { display: inline-block; text-align: center;}
+#member_list input { width: 40px; height: 20px; text-align: center;}
+#member_list button { padding: 3px 10px;}
+#member_list .col1 { width: 80px; }
+#member_list .col2 { width: 100px; }
+#member_list .col3 { width: 80px; }
+#member_list .col5 { width: 80px; }
+#member_list .col6 { width: 170px; }
+#member_list .col7 { width: 70px; }
+#member_list .col8 { width: 70px; }

@@ -1,0 +1,36 @@
+#menu_div_main {
+  width: 850px;
+  margin: 0 auto;
+}
+
+ul {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+li {
+  width: 400px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+#menu_div_main img {
+  width: 150px;
+  height: 150px;
+}
+.pizza_img {
+  display: inline-block;
+  margin-right: 10px;
+}
+.menu_info {
+  display: inline-block;
+}
+
+.menu_name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.menu_price {
+  font-size: 17px;
+}

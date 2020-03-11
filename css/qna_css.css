@@ -1,0 +1,176 @@
+#qna_list_div_main {
+  width: 850px;
+  margin: 0 auto;
+}
+
+#qna_title {
+  margin-top: 30px;
+}
+
+#list_search {
+  height: 30px;
+  padding-top: 10px;
+}
+
+#list_search #list_search1 {
+  float: left;
+}
+
+#list_search #list_search2 {
+  float: right;
+}
+
+#list_search #list_search3 {
+  float: left;
+}
+
+#list_search #list_search3 select {
+  width: 80px;
+  height: 23px;
+}
+
+#list_search #list_search4 {
+  float: left;
+}
+
+#list_search #list_search4 input {
+  width: 150px;
+  height: 19px;
+}
+
+#list_search #list_search5 {
+  float: left;
+  height: 30px;
+}
+
+#list_top_title {
+  width: 850px;
+  height: 20px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 3px;
+  margin: 0 auto;
+}
+
+#list_top_title ul li {
+  display: inline;
+}
+
+#list_top_title #list_title1 {
+  margin-left: 7px;
+}
+
+#list_top_title #list_title2 {
+  margin-left: 240px;
+}
+
+#list_top_title #list_title3 {
+  margin-left: 280px;
+}
+
+#list_top_title #list_title4 {
+  margin-left: 52px;
+}
+
+#list_top_title #list_title5 {
+  margin-left: 65px;
+}
+
+#list_content {
+  height: 480px;
+}
+
+#list_item {
+  height: 25px;
+  margin-top: 2px;
+  padding: 6px;
+  border-bottom: solid 1px #eeeeee;
+}
+
+#list_item #list_item1 {
+  float: left;
+  width: 45px;
+  text-align: center;
+}
+
+#list_item #list_item2 {
+  float: left;
+  width: 520px;
+}
+
+#list_item #list_item3 {
+  float: left;
+  width: 95px;
+  text-align: center;
+}
+
+#list_item #list_item4 {
+  float: left;
+  width: 135px;
+  text-align: center;
+}
+
+#list_item #list_item5 {
+  float: left;
+  width: 43px;
+  text-align: center;
+}
+
+#page_button {
+  margin-top: 20px;
+}
+
+#page_num {
+  height: 30px;
+  text-align: center;
+}
+
+#page_num li {
+  display: inline;
+}
+
+#button {
+  width: 100%;
+  text-align: right;
+  margin-bottom: 20px;
+}
+
+/* write_form css */
+#write_edit_form_div_main {
+  width: 850px;
+  margin: 0 auto;
+}
+
+#write_form {
+  width: 850px;
+  margin: 0 auto;
+}
+
+#write_row1 {
+  margin-top: 20px;
+  border-bottom: 1px solid lightgray;
+}
+
+#write_row2 {
+  margin-top: 5px;
+  border-bottom: 1px solid lightgray;
+}
+
+#write_row2 input {
+  width: 783px;
+}
+
+#write_row3 {
+  margin-top: 5px;
+  border-bottom: 1px solid lightgray;
+}
+
+#write_button {
+  margin-bottom: 20px;
+}
+
+/* qna_view css */
+#qna_view_div_main {
+  width: 850px;
+  margin: 0 auto;
+}

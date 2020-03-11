@@ -1,0 +1,200 @@
+#div {
+  width: 610px;
+  margin: 0 auto;
+}
+
+input {
+  width: 600px;
+  height: 40px;
+}
+
+#signup-one {
+  margin-bottom: 30px;
+}
+
+#signup-one p {
+  color: orange;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+#signup-two {
+  margin-bottom: 30px;
+}
+
+#signup-three {
+  margin-bottom: 30px;
+}
+
+#signup-four {}
+
+#signup-four input {
+  display: inline-block;
+  width: 280px;
+  float: left;
+  margin-bottom: 30px;
+}
+
+#signup-four p {
+  font-size: 17px;
+  display: inline-block;
+  float: left;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#signup-five {
+  margin-bottom: 10px;
+  clear: both;
+}
+
+#signup-five input {
+  width: 30px;
+  height: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+#signup-five button {
+  margin: 0;
+  padding: 0;
+  width: 55px;
+  height: 20px;
+  font-size: 11px;
+}
+
+#signup-six {
+  width: 600px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid lightgray;
+}
+
+#signup-six table {
+  width: 600px;
+  text-align: center;
+  border: 1px solid lightgray;
+  border-collapse: collapse;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+#signup-six tr, td {
+  border: 1px solid lightgray;
+}
+
+.tr-one {
+  background-color: #ececec;
+}
+
+#signup-seven {
+  margin-bottom: 10px;
+}
+
+#signup-seven p {
+  color: gray;
+}
+
+#signup-seven span {
+  font-size: 14px;
+  margin-right: 27px;
+}
+
+#signup-seven input {
+  width: 160px;
+  height: 30px;
+}
+
+#signup-eight {
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+#signup-eight span {
+  font-size: 14px;
+  margin-right: 55px;
+}
+
+#signup-eight input {
+  width: 10px;
+  height: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+#signup-nine {
+  width: 600px;
+  height: 100px;
+  box-sizing: border-box;
+  border: 1px solid lightgray;
+}
+
+#signup-nine input {
+  width: 15px;
+  height: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+#signup-nine-one {
+  display: inline-block;
+  float: left;
+  box-sizing: border-box;
+  width: 100px;
+  height: 100px;
+  margin-right: 25px;
+  margin-left: 25px;
+}
+
+#signup-nine-one input {
+  margin-top: 35px;
+}
+
+#signup-nine-two {
+  display: inline-block;
+  float: left;
+  box-sizing: border-box;
+  width: 400px;
+  height: 100px;
+  font-size: 12px;
+}
+
+#signup-nine-two input {
+  margin-top: 5px;
+}
+
+#signup-ten {
+  width: 600px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid lightgray;
+}
+
+#signup-ten p {
+  font-size: 11px;
+  color: gray;
+}
+
+#signup-ten table {
+  width: 600px;
+  text-align: center;
+  border: 1px solid lightgray;
+  border-collapse: collapse;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+#signup-ten tr, td {
+  border: 1px solid lightgray;
+}
+
+#signup-eleven {}
+
+#signup-eleven input {
+  width: 170px;
+  height: 50px;
+  background-color: orange;
+  border: 1px solid orange;
+  color: white;
+  font-size: 16px;
+  margin-left: 230px;
+}
